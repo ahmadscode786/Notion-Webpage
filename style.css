@@ -1,0 +1,273 @@
+.notiontxt {
+  margin-left: 0.5625vw;
+}
+
+.section1 {
+  margin-top: 10vh;
+  /* background-color: aqua; */
+}
+#section1-pic {
+  margin-top: -1.6vh;
+}
+.monz {
+  margin-left: 2.3vw;
+}
+
+.match {
+  margin-left: 1vw;
+}
+.hero-refreshed-img {
+  width: 39vw;
+  height: 56vh;
+  margin-left: 4vw;
+  margin-bottom: 7.5px;
+}
+/* Main div of the section number 2 */
+.section2 {
+  margin-top: 10vh;
+  height: 68.1vh;
+  /* background-color: aqua; */
+}
+
+.asme {
+  margin-left: 0vw;
+  width: 54vw;
+  height: 68.2vh;
+}
+/* heading div of the section number 2 */
+.h-chaos {
+  width: 31vw;
+  height: 29vh;
+  margin-top: 17vh;
+  margin-left: 3.7vw;
+}
+
+/* starting the section number 3 */
+
+.section3 {
+  margin-top: 10vh;
+  height: 68.1vh;
+  /* background-color: aqua; */
+}
+
+.meeting {
+  margin-left: 0vw;
+  width: 65.3vw;
+  height: 90.2vh;
+  margin-left: -5.7vw;
+  margin-top: -6.6vh;
+}
+/* heading div of the section number 3 */
+.h-never {
+  width: 31vw;
+  height: 29vh;
+  margin-top: 17vh;
+  margin-left: 3.7vw;
+}
+
+/* starting the section number 4 */
+
+.section4 {
+  margin-top: 10vh;
+  height: 68.1vh;
+  /* background-color: aqua; */
+}
+
+.road-map {
+  margin-left: 0vw;
+  width: 65.3vw;
+  height: 90.2vh;
+  margin-left: -5.7vw;
+  margin-top: -6.6vh;
+}
+/* heading div of the section number 4 */
+.h-build {
+  width: 31vw;
+  height: 29vh;
+  margin-top: 17vh;
+  margin-left: 3.7vw;
+}
+
+/* starting the section number 5   (main div)*/
+.section5 {
+  margin-top: 10vh;
+}
+.buit-endles {
+  margin-left: 22vw;
+}
+/* starting the section number 5 part 2 */
+
+.section5-2 {
+  margin-top: 10vh;
+}
+
+.headspace {
+  margin-top: 51vh;
+}
+.head-p {
+  margin-bottom: 2vh;
+}
+
+/* Main design image english us system  */
+
+.design-en {
+  width: 66vw;
+  height: 89vh;
+  margin-left: -1vw;
+}
+
+/* styleing of the hr 2 */
+
+.hr2 {
+  border: 1px solid #0000001a;
+  margin-top: 10vh;
+}
+
+/* starting the main div of section 6 */
+.section6 {
+  /* background-color: aqua; */
+  margin-top: 10vh;
+}
+
+.btn-custom {
+  border-radius: 5;
+  border-width: 1px;
+  border: 1;
+}
+
+.section6-2 {
+  margin-top: 10vh;
+}
+.prnx {
+  margin-top: 3vh;
+  margin-left: -1.7vw;
+}
+
+.sec6-box {
+  margin-left: 23vw;
+  margin-top: 6.4vh;
+}
+
+.sec6-comp {
+  width: 31vw;
+  height: 48vh;
+  margin-left: -1.3vw;
+}
+
+.sec6-road {
+  width: 31vw;
+  height: 48vh;
+  margin-left: -1.6vw;
+}
+
+.sec6-meet {
+  width: 31vw;
+  height: 48vh;
+  margin-left: -1.9vw;
+}
+
+/* starting the main div of section 7 */
+
+.section7 {
+  /* background-color: aqua; */
+  margin-top: 10vh;
+}
+
+.btn-custom2 {
+  margin-top: 5vh;
+}
+
+.sec7-group {
+  width: 28vw;
+  height: 38vh;
+  margin-left: 16vw;
+}
+.sec7-para {
+  margin-top: 5vh;
+}
+.sec7-c1 {
+  margin-left: -1vw;
+}
+.sec7-rehm {
+  margin-left: -0.4vw;
+}
+.sec7-rehm-p {
+  margin-top: 1.3vh;
+  font-size: 230;
+}
+.sec7-div-p {
+  margin-top: -2.9vh;
+}
+
+.sec7-vin {
+  margin-top: -2.5vh;
+  margin-left: -0.7vw;
+}
+
+.sec7-viny-p {
+  margin-top: -1vh;
+  font-size: 230;
+  margin-left: -0.6vw;
+}
+
+.sec7-co-found-p {
+  margin-top: -3vh;
+  margin-left: -0.6vw;
+}
+
+.sec7-mar {
+  margin-left: -0.4vw;
+  margin-top: -3vh;
+}
+
+.sec7-mar-p {
+  margin-top: -1.3vh;
+  margin-left: -0.3vw;
+}
+
+.sec7-people-p {
+  margin-top: -2.8vh;
+  margin-left: -0.3vw;
+}
+
+/* starting the main div of section 8 */
+
+.section8 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10vh;
+}
+
+.s8-sitting {
+  margin-top: -9vh;
+}
+/* starting the main div of section 9 And this the footer area */
+
+.sec-9-footer {
+  margin-top: 10vh;
+}
+
+.hrlst {
+  border: 1px solid #0000001a;
+  margin-top: 5vh;
+}
+
+.cook-fotr {
+  margin-left: -5vw;
+  margin-top: 1vh;
+}
+.stat-fotr {
+  margin-left: -4vw;
+  margin-top: 1vh;
+}
+
+.notion-fotr {
+  margin-left: -9vw;
+  margin-top: 0.8vh;
+}
+
+.fot-ul {
+  margin-left: 14vw;
+}
